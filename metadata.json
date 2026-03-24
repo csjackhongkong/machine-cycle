@@ -1,0 +1,5 @@
+{
+  "name": "Machine Cycle Visualizer",
+  "description": "An interactive visualization of the 7 steps of the CPU machine cycle for ICT students.",
+  "requestFramePermissions": []
+}
